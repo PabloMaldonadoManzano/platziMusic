@@ -1,5 +1,5 @@
 'use strict'
-require('./check-versions.js')
+require('https://pablomaldonadomanzano.github.io/platziMusic/build/check-versions.js')
 
 process.env.NODE_ENV = 'production'
 
